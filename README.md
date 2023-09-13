@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **MERN Stack, OOP, MySQL, Flutter**
+- 💬 Ask me about **MERN Stack, Data Structure, OOP, MySQL, Flutter**
 
 - 📫 How to reach me **markmahrous012@gmail.com**
 
